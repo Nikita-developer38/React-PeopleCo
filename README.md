@@ -25,7 +25,7 @@ React-Bootstrap and MD Bootstrap for styling
 
 
 ## 🚀 Live Demo
-Check out the live project here: [Live Demo Link](https://people-co-nikita.netlify.app/PeopleDirectory/)
+Check out the live project here: [Live Demo Link](https://people-co-nikita.netlify.app)
 ## video
 Watch the demo of the mini drum kit in action:
 

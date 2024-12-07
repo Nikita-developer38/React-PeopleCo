@@ -4,17 +4,17 @@
 This is a React-based CRUD application for managing employee data. It features a login system, pagination, and a responsive user interface, making it user-friendly and efficient.
 
 ## 🌟 Features
- ### CRUD Operations:
+ - CRUD Operations:
        Add, view, edit, and delete employee details.
-   ### Authentication:
+- Authentication:
        Login functionality using Content API.
-  ###  Credentials:
+  -  Credentials:
        Email: admin@gmail.com
        Password: admin123
-  ### Displays error messages for incorrect credentials.
-  ### Pagination:
-   Efficiently handles large datasets.
-  ### Responsive Design:
+  - Displays error messages for incorrect credentials.
+  - Pagination:
+
+  - Responsive Design:
       Built with React-Bootstrap and MD Bootstrap for seamless styling.
 
 ## 🛠️ Technologies Used
@@ -25,8 +25,11 @@ React-Bootstrap and MD Bootstrap for styling
 
 
 ## 🚀 Live Demo
-Check out the live project here: [Live Demo Link](#demo video.mp4)
+Check out the live project here: [Live Demo Link](https://people-co-nikita.netlify.app/PeopleDirectory)
+## video
+Watch the demo of the mini drum kit in action:
 
+[![People.co]](./demo.mp4)
 
 ## 💻 Installation
    ### Step 1: Clone the repository

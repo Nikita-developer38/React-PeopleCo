@@ -4,18 +4,17 @@
 This is a React-based CRUD application for managing employee data. It features a login system, pagination, and a responsive user interface, making it user-friendly and efficient.
 
 ## 🌟 Features
-
-    CRUD Operations:
+ ### CRUD Operations:
        Add, view, edit, and delete employee details.
-    Authentication:
+   ### Authentication:
        Login functionality using Content API.
-    Credentials:
+  ###  Credentials:
        Email: admin@gmail.com
        Password: admin123
-   Displays error messages for incorrect credentials.
-   Pagination:
+  ### Displays error messages for incorrect credentials.
+  ### Pagination:
    Efficiently handles large datasets.
-   Responsive Design:
+  ### Responsive Design:
       Built with React-Bootstrap and MD Bootstrap for seamless styling.
 
 ## 🛠️ Technologies Used
@@ -35,16 +34,18 @@ Check out the live project here: [Live Demo Link](#demo video.mp4)
   git clone [Your GitHub Repository Link]
   ````
   ### Step 2: Navigate to the project folder
-```bash``
+```bash
     cd people_co  
 ```
   ### Step 3: Install dependencies
 ```bash
-npm install  
+npm install
+```  
 ### Step 4: Start the development server
 ```bash
 
-npm start  
+npm start
+``` 
 ### Step 5: Open in browser
 Open http://localhost:3000 to see the app.
 

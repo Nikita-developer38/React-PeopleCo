@@ -16,7 +16,7 @@ function AddMember() {
   async function postData(e) {
     e.preventDefault();
     await axios.post(
-      "https://6745b3a8512ddbd807f93eb9.mockapi.io/post/peopleCo",
+      "https://69d602941c120e733ccd6fca.mockapi.io/PeopleCo",
       {
         name: name,
         username: username,
